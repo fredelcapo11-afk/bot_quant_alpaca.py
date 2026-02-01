@@ -1,0 +1,11 @@
+alpaca-trade-api
+pandas
+pandas-ta
+numpy
+statsmodels
+arch
+scikit-learn
+python-dotenv
+flask
+requests
+python-telegram-bot
